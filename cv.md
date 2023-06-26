@@ -8,11 +8,16 @@ birthday: july 20, 1990
 
 ![GoArt / Uporov Aleksandr](https://sun3-20.userapi.com/impg/OUb9Si8V8nU2v-Yhn2wTwK5ts-oADLlhMFW_gA/BwC_cpBgud8.jpg?size=721x1080&quality=95&sign=80a55da3eff3009d84ec90a1b6fd2197&type=album "it's me")
 
+## Contacts
+
++ telegram: @FrostFang
++ discord: frostart.
+
 ## About
 
 Hello! A little bit of introducing myself.
 Right now working in kolibri.agency as php-backend developer.
-Always want a little bit more =)
+Always want a little bit more and want to be a fullstack =)
 
 ### Languages
 

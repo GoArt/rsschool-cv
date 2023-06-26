@@ -1,4 +1,4 @@
 # rsschool-cv
 
-[CV GoArt](https://GoArt.github.io/rsschool-cv/cv "CV Uporov")
+[CV GoArt](https://github.com/GoArt/rsschool-cv/blob/gh-pages/cv.md "CV Uporov")
 
